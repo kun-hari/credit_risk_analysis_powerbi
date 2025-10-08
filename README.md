@@ -20,7 +20,7 @@ Detail: Full business objectives and exploratory steps are documented in the acc
 ## 📊 *Dataset*
 The dataset comprises loan records from 2005 to 2010, sourced from the official SBA Loan Performance dataset on Kaggle
 
-Dataseet: https://www.kaggle.com/mirbektoktogaraev/should-this-loan-be-approved-or-denied
+Dataset: https://www.kaggle.com/mirbektoktogaraev/should-this-loan-be-approved-or-denied
 
 ### Key Attributes:
 
